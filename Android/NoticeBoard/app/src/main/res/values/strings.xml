@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Notice Board</string>
+
+    <!-- Sign in activity -->
+    <string name="login">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="incorrect_credentials">Invalid username or password</string>
+    <string name="no_account">No Account?</string>
+    <string name="register"><u>Register</u></string>
+
+    <!-- Register activity -->
+    <string name="signup">Sign Up</string>
+    <string name="username_exists">Username is taken</string>
+    <string name="admin">Admin</string>
+    <string name="successfully_registered">Successfully registered</string>
+    <string name="already_has_admin">The notice board already has an admin</string>
+    <string name="unable_to_register">Unable to register</string>
+
+    <!-- Admin Main Activity -->
+    <string name="add_notice">Add Notice</string>
+    <string name="notice_added">Notice added</string>
+    <string name="notice_updated">Notice updated</string>
+    <string name="notice_deleted">Notice deleted</string>
+    <string name="exit_dialog_title">Confirm Delete</string>
+    <string name="confirm_message">Are you sure you want to delete this notice?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Student Main Activity -->
+    <string name="refresh">Refresh</string>
+
+    <!-- Notice Detail Activity -->
+    <string name="notice_detail">Notice Detail</string>
+
+    <!-- Editable Notice Activity -->
+    <string name="save">Save</string>
+    <string name="specify_all_fields">Please fill both fields</string>
+    <string name="title_exists">Title already exists</string>
+    <string name="unable_to_add_notice">Unable to add notice</string>
+    <string name="unable_to_edit_notice">Unable to edit notice</string>
+    <string name="successfully_edited">Successfully edited</string>
+</resources>
